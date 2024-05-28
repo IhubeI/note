@@ -40,3 +40,4 @@ import는 직접 작성하지 않고 **단축키**인 `ctrl+shift+o`를 누릅�
 
 난수 생성의 원리가 궁금하시다면 [위키백과](https://ko.wikipedia.org/wiki/%EB%82%9C%EC%88%98)에서 확인할 수 있습니다.  
 
+![img](https://i.namu.wiki/i/Tu93EDNTHxVfDsDjQEoYRQQnkNmZe1ySr70TpkyxU3kd0IoWS96oLBhl3kbl6EIKS-dXVCBkjLK4Ga1pLtZ92w.webp)
